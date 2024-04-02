@@ -76,7 +76,7 @@ hg19 solo hay version 1
 
 la diferencia entre el hg19 de v1 and the one of v2 is that v1 was manually curated while v2 has not. That is why we maintain v1 for hg19 as the default.
 
-check that hg19 and GRch37 have the same size
+check that `hg19` and `GRch37` have the same size
 y cambiar names
 
 me deja los antiguos para comparar con los nuevos que tienen la misma nomenclatura
@@ -87,4 +87,4 @@ in usage we can just copy paste and then say that in igenomes you can see what i
 
 update modules in a separate pr
 
-Add a replicate column-- for the bigweg files first normalize by replicate and then 
+Add a replicate column -- for the bigweg files first normalize by replicate and then 
